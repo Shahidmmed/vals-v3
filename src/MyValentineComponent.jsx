@@ -40,6 +40,12 @@ const MyValentineComponent = () => {
 
       <div className="answer--yes"></div>
       <div className="answer--no"></div>
+
+      <div className="signature">
+        <p>
+          Made for you with <i className="much-heart"></i>
+        </p>
+      </div>
     </div>
   );
 };
