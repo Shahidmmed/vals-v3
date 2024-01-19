@@ -116,7 +116,7 @@ body {
     width: 100%;
   }
   .heart-lg {
-    @include fixed-hearts($heart-lg, 299deg, 389px, 438px, -2%, 50%, 1px, 45);
+    @include fixed-hearts($heart-lg, 299deg, 389px, 438px, -2%, 60%, 1px, 45);
   }
   .heart-sm {
     @include fixed-hearts($heart-sm, 45deg, 264px, 299px, 65%, 30%, 7px, 15);
